@@ -1,0 +1,6 @@
+{
+  "name": "TubeStudio Pro - YouTube Video & Metadata Downloader & Channel Uploader",
+  "description": "Download YouTube videos in Full HD, extract high-res thumbnails, hidden keywords, tags, titles, descriptions, and connect your YouTube Studio to directly upload videos to your channel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
